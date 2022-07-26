@@ -1,17 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="isLeapYear"/>
+		<item key="selection" value="substring"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
-		<item key="wholeword" value="false"/>
+		<item key="wholeword" value="true"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="substring"/>
+			<item value="player"/>
+			<item value="firstNumber"/>
+			<item value="getFirst"/>
+			<item value="SUM"/>
+			<item value="]"/>
+			<item value="["/>
+			<item value="isPrime"/>
+			<item value="prime"/>
+			<item value="n"/>
+			<item value="reverse"/>
+			<item value="sumDigits"/>
 			<item value="isLeapYear"/>
 			<item value="int"/>
 		</list>
 		<list key="replacehistory">
+			<item value="values"/>
+			<item value=""/>
+			<item value="}"/>
+			<item value="{"/>
+			<item value="number"/>
 			<item value="long"/>
 		</list>
 	</section>
